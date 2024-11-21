@@ -1273,7 +1273,7 @@ local req = (syn and syn.request) or (http and http.request) or http_request or 
 task.spawn(function()
 	chat("Bot Loaded")
 	wait(0.1)
-	chat(".wl LocalPlayers3")
+	chat(".wl designingtsb")
 end)
 
 task.spawn(function()
